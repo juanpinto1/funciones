@@ -1,0 +1,28 @@
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+main {
+    display: flex;
+    justify-content: space-around;
+}
+div {
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+#key {
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    border: solid 1px black;
+}
+
